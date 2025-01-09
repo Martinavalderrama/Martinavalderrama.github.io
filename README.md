@@ -16,18 +16,18 @@
 		<br />
 		
 	<h2>Programation :</h2>
-  <a herf 
+  <a hef 
  	<h2>Les rèseaux sociaux :</h2>
  
 	<h2>Internet :</h2>
-  <a herf
+  <a hef
   <h2>Le Web :</h2>
-   <a herf
+   <a hef
   <h2>Donnèes structurèes :</h2>
-      <a herf
+      <a hef
   <h2>Photographie numèrique :</h2>
-         <a herf
+         <a hef
  	<h2> Gèolocalisation :</h2>
-            <a herf
+            <a hef
  	<h2> Object connectès :</h2>
-   <a herf
+   <a hef
