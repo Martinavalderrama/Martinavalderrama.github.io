@@ -1,1 +1,42 @@
+<!DOCTYPE html>
 
+<html>
+
+	
+	
+		<style> h1{font-size: 3 cm; font-family: Calibri; text-align: center }
+		        h3{font-size: 2 cm; font-family: Calibri; text-align: left; }
+            head{background-color: #ffffff}
+		        p{font-size: 1 cm; font-family: Calibri}
+			
+	      </style>
+
+  <head> 
+	
+		<h1>Géolocalisation</h1>
+
+    </head>
+  
+  <body>
+		
+		<p></p>
+		
+	  <br />
+	  
+    <a href=""><h3>Activité d'introduction à la géolocalisation.</h3></a>
+ 
+ <a href=""> <h3> Activité Colombie des Antipodes.</h3></a>
+
+  <img src="" width= "900";height= "400">
+
+      <a herf=""><h3> Activité France des Antipodes</h3></a>
+
+  <img src="" width= "900";height= "400">
+      
+<p><a href="index.html">Retour au menu d'accueil</a></p>
+	    
+  </body>
+		
+		
+		
+</html>
